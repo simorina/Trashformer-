@@ -1,0 +1,7 @@
+# Models directory
+models/
+
+# G3 dataset and subfolders
+G3/
+
+utility/
