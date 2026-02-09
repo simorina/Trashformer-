@@ -51,7 +51,7 @@ Reference: [Ultralytics YOLO26 docs](https://docs.ultralytics.com/models/yolo26/
 - Val: 2,382 images
 - Instances: 18,910 labeled objects
 - Image size: 640×640
-- Train ds Distribution: See `dataset_distribution.png`
+- Train ds Distribution: See <img src="dataset_distribution.png">
 
 ## Training Configuration
 
@@ -137,3 +137,4 @@ Trashformer-/
 - Quantization/ONNX/TensorRT deployments
 
 - Compare with other families (YOLOv8/v11, DETR variants)
+
