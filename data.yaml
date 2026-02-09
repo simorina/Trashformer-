@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 5
+names: ['BIODEGRADABLE', 'PAPER', 'GLASS', 'METAL', 'PLASTIC']
+
+roboflow:
+  workspace: sosa1
+  project: garbage-classification-3-6fogc
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/sosa1/garbage-classification-3-6fogc/dataset/1
